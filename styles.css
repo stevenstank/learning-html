@@ -1,3 +1,10 @@
-.hello, .no{
-    background-color: red;
+:root{
+    --very-good: red
+}
+
+.hello{
+    background-color: var(--very-good);
+}
+.no{
+    color: var(--very-good);
 }
