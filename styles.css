@@ -1,10 +1,13 @@
 :root{
-    --very-good: red
+    --very-good: rgb(143, 92, 92);
+    --haalllloooo: yellow
 }
 
 .hello{
     background-color: var(--very-good);
+    color: var(--haalllloooo);
 }
 .no{
     color: var(--very-good);
+    background-color: var(--haalllloooo);
 }
