@@ -1,7 +1,7 @@
 :root{
     --very-good: rgb(143, 92, 92);
     --haalllloooo: yellow;
-    --kkrh: 100px
+    --kkr: 100px
 }
 
 .hello{
@@ -11,5 +11,5 @@
 .no{
     color: var(--very-good);
     background-color: var(--haalllloooo);
-    font-size: var(--kkrh);
+    font-size: var(--kkr);
 }
