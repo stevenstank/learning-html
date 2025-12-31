@@ -1,15 +1,17 @@
-:root{
+:root {
     --very-good: rgb(143, 92, 92);
     --haalllloooo: yellow;
     --kkr: 100px
 }
 
-.hello{
+.hello {
     background-color: var(--very-good);
     color: var(--haalllloooo);
 }
-.no{
+
+.no {
     color: var(--very-good);
     background-color: var(--haalllloooo);
     font-size: var(--kkr);
+    display: flex;
 }
